@@ -37,5 +37,7 @@ A Spring Boot backend application for managing tasks and task lists with support
 
 ```bash
 docker-compose up --build
+```
+2. Run The Application
 
-2. Start the application
+
